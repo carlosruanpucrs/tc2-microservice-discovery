@@ -1,1 +1,1 @@
-# tc2-microservices
+# tc2-microservice-discovery
